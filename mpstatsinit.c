@@ -1,0 +1,42 @@
+void main() // Position - 0x0 (0)
+{
+	func_1();
+	Global_2697022 = true;
+	SCRIPT::TERMINATE_THIS_THREAD();
+	return;
+}
+
+void func_1() // Position - 0x15 (21)
+{
+	Global_1689090[0] = joaat("MPPLY_AWD_FM_CR_RACES_MADE");
+	Global_1689090[1] = joaat("MPPLY_AWD_FM_CR_DM_MADE");
+	Global_1689090[2] = joaat("MPPLY_AWD_FM_CR_PLAYED_BY_PEEP");
+	Global_1689090[3] = joaat("MPPLY_AWD_FM_CR_MISSION_SCORE");
+	Global_1689090[4] = joaat("MPPLY_AWD_TEMPAWARD");
+	Global_1689096[0] = joaat("MPPLY_AWD_TEMPAWARDFLOAT");
+	Global_1689098[0] = joaat("MPPLY_AWD_TEMPAWARDBOOL");
+	Global_1689098[1] = joaat("MPPLY_AWD_GANGOPS_IAA");
+	Global_1689098[2] = joaat("MPPLY_AWD_GANGOPS_SUBMARINE");
+	Global_1689098[3] = joaat("MPPLY_AWD_GANGOPS_ALLINORDER");
+	Global_1689098[4] = joaat("MPPLY_AWD_GANGOPS_LOYALTY");
+	Global_1689098[5] = joaat("MPPLY_AWD_GANGOPS_CRIMMASMD");
+	Global_1689098[6] = joaat("MPPLY_AWD_GANGOPS_MISSILE");
+	Global_1689098[7] = joaat("MPPLY_AWD_GANGOPS_LOYALTY2");
+	Global_1689098[8] = joaat("MPPLY_AWD_GANGOPS_LOYALTY3");
+	Global_1689098[9] = joaat("MPPLY_AWD_GANGOPS_CRIMMASMD2");
+	Global_1689098[10] = joaat("MPPLY_AWD_GANGOPS_CRIMMASMD3");
+	Global_1689098[11] = joaat("MPPLY_AWD_GANGOPS_SUPPORT");
+	Global_1689098[12] = joaat("MPPLY_AWD_FLEECA_FIN");
+	Global_1689098[13] = joaat("MPPLY_AWD_PRISON_FIN");
+	Global_1689098[14] = joaat("MPPLY_AWD_HUMANE_FIN");
+	Global_1689098[15] = joaat("MPPLY_AWD_SERIESA_FIN");
+	Global_1689098[16] = joaat("MPPLY_AWD_PACIFIC_FIN");
+	Global_1689098[17] = joaat("MPPLY_AWD_HST_ORDER");
+	Global_1689098[18] = joaat("MPPLY_AWD_HST_SAME_TEAM");
+	Global_1689098[19] = joaat("MPPLY_AWD_HST_ULT_CHAL");
+	Global_1689098[20] = joaat("MPPLY_AWD_COMPLET_HEIST_1STPER");
+	Global_1689098[21] = joaat("MPPLY_AWD_COMPLET_HEIST_MEM");
+	Global_1689121[0] = joaat("MPPLY_AWD_TEMPAWARDDATE");
+	return;
+}
+
